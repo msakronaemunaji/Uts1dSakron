@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1cffca9-c7d2-4d4d-b8e8-9b9f19b7f1e8" name="Changes" comment="UTS1D">
-      <change beforePath="$PROJECT_DIR$/src/uts1D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uts1D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/soal3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sooal3.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668430310052</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="UTS1D">
+      <created>1668430741637</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668430741637</updated>
+    </task>
+    <task id="LOCAL-00004" summary="UTS1D">
+      <created>1668430880296</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668430880296</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
