@@ -1,7 +1,6 @@
-
 import java.util.Random;
 import java.util.Scanner;
-public class uts1D {
+public class JawabanNoTiga {
     int DataArea = 5;
     static int jumlah = 50;
     public static String[] K_Kudus = new String[5];
